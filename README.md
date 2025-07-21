@@ -43,4 +43,4 @@ Este proyecto es una **aplicación web de gestión de personas** que permite rea
 
 ```bash
 git clone https://github.com/tu-usuario/abm-personas.git
-cd abm-personas
+cd ABM
